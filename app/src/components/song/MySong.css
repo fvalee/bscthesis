@@ -1,0 +1,9 @@
+#artist #button {
+    visibility: hidden;
+}
+#artist:hover #button{
+    visibility: unset;
+}
+#button:hover {
+    cursor: pointer;
+}
